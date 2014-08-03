@@ -1,0 +1,312 @@
+08-07-2014 10:01:23: In the timer tick now
+Debug 
+Information
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+08-07-2014 10:01:23: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:23: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 10:01:24: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+08-07-2014 10:01:24: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 10:01:24: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 10:01:24: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 10:01:24: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+08-07-2014 10:01:24: Symbol: AAPL. CandleStartTime: 08-07-2014 10:00:00. BL: 94.557 BU: 96.142
+Debug 
+Information
+----------------------------------------
+08-07-2014 10:01:24: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 10:01:24: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:17: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:19: Clicked on 'Start Button'
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:19: Starting Trader from BGWorker..
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:23: Will wait -9323.0744571 seconds
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:23: Scanning for the first time
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:23: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:23: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:26: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:35:28: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:cashfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:35:29: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:35:30: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:35:31: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:31: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:32: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:32: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Symbol: GOOG. CandleStartTime: 08-07-2014 12:30:00. BL: 561.416 BU: 589.985
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:34: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Symbol: AAPL. CandleStartTime: 08-07-2014 12:30:00. BL: 94.159 BU: 96.286
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:34: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:35: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:35: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:35: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:35: Symbol: MSFT. CandleStartTime: 08-07-2014 12:30:00. BL: 41.681 BU: 42.180
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:35: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:35: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:35: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:47: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+08-07-2014 12:35:48: Clicked on 'Start Button'
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:48: Starting Trader from BGWorker..
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:54: Will wait -9354.3112437 seconds
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:54: Scanning for the first time
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:54: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:35:54: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+08-07-2014 12:36:02: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:36:04: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:cashfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:36:05: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:36:07: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:36:07: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+08-07-2014 12:36:07: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+08-07-2014 12:36:15: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+08-07-2014 12:36:15: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MegBounceDataSet" targetNamespace="http://tempuri.org/MegBounceDataSet.xsd" xmlns:mstns="http://tempuri.org/MegBounceDataSet.xsd" xmlns="http://tempuri.org/MegBounceDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MegBounceDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="MegBounceDataSet" msprop:Generator_UserDSName="MegBounceDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Orders" msprop:Generator_TableClassName="OrdersDataTable" msprop:Generator_TableVarName="tableOrders" msprop:Generator_TablePropName="Orders" msprop:Generator_RowDeletingName="OrdersRowDeleting" msprop:Generator_RowChangingName="OrdersRowChanging" msprop:Generator_RowEvHandlerName="OrdersRowChangeEventHandler" msprop:Generator_RowDeletedName="OrdersRowDeleted" msprop:Generator_UserTableName="Orders" msprop:Generator_RowChangedName="OrdersRowChanged" msprop:Generator_RowEvArgName="OrdersRowChangeEvent" msprop:Generator_RowClassName="OrdersRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OrderId" msprop:Generator_ColumnVarNameInTable="columnOrderId" msprop:Generator_ColumnPropNameInRow="OrderId" msprop:Generator_ColumnPropNameInTable="OrderIdColumn" msprop:Generator_UserColumnName="OrderId" type="xs:int" default="-1" />
+              <xs:element name="FQSymbol" msprop:Generator_ColumnVarNameInTable="columnFQSymbol" msprop:Generator_ColumnPropNameInRow="FQSymbol" msprop:Generator_ColumnPropNameInTable="FQSymbolColumn" msprop:Generator_UserColumnName="FQSymbol" type="xs:string" minOccurs="0" />
+              <xs:element name="PlacedQuantity" msprop:Generator_ColumnVarNameInTable="columnPlacedQuantity" msprop:Generator_ColumnPropNameInRow="PlacedQuantity" msprop:Generator_ColumnPropNameInTable="PlacedQuantityColumn" msprop:Generator_UserColumnName="PlacedQuantity" type="xs:int" minOccurs="0" />
+              <xs:element name="FilledQuantity" msprop:Generator_ColumnVarNameInTable="columnFilledQuantity" msprop:Generator_ColumnPropNameInRow="FilledQuantity" msprop:Generator_ColumnPropNameInTable="FilledQuantityColumn" msprop:Generator_UserColumnName="FilledQuantity" type="xs:int" minOccurs="0" />
+              <xs:element name="LimitPrice" msprop:Generator_ColumnVarNameInTable="columnLimitPrice" msprop:Generator_ColumnPropNameInRow="LimitPrice" msprop:Generator_ColumnPropNameInTable="LimitPriceColumn" msprop:Generator_UserColumnName="LimitPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Action" msprop:Generator_ColumnVarNameInTable="columnAction" msprop:Generator_ColumnPropNameInRow="Action" msprop:Generator_ColumnPropNameInTable="ActionColumn" msprop:Generator_UserColumnName="Action" type="xs:string" minOccurs="0" />
+              <xs:element name="ExecutionPrice" msprop:Generator_ColumnVarNameInTable="columnExecutionPrice" msprop:Generator_ColumnPropNameInRow="ExecutionPrice" msprop:Generator_ColumnPropNameInTable="ExecutionPriceColumn" msprop:Generator_UserColumnName="ExecutionPrice" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Explanation" msprop:Generator_ColumnVarNameInTable="columnExplanation" msprop:Generator_ColumnPropNameInRow="Explanation" msprop:Generator_ColumnPropNameInTable="ExplanationColumn" msprop:Generator_UserColumnName="Explanation" type="xs:string" minOccurs="0" />
+              <xs:element name="OrderType" msprop:Generator_ColumnVarNameInTable="columnOrderType" msprop:Generator_ColumnPropNameInRow="OrderType" msprop:Generator_ColumnPropNameInTable="OrderTypeColumn" msprop:Generator_UserColumnName="OrderType" type="xs:string" minOccurs="0" />
+              <xs:element name="HasError" msprop:Generator_ColumnVarNameInTable="columnHasError" msprop:Generator_ColumnPropNameInRow="HasError" msprop:Generator_ColumnPropNameInTable="HasErrorColumn" msprop:Generator_UserColumnName="HasError" type="xs:boolean" default="false" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Candles" msprop:Generator_TableClassName="CandlesDataTable" msprop:Generator_TableVarName="tableCandles" msprop:Generator_TablePropName="Candles" msprop:Generator_RowDeletingName="CandlesRowDeleting" msprop:Generator_RowChangingName="CandlesRowChanging" msprop:Generator_RowEvHandlerName="CandlesRowChangeEventHandler" msprop:Generator_RowDeletedName="CandlesRowDeleted" msprop:Generator_UserTableName="Candles" msprop:Generator_RowChangedName="CandlesRowChanged" msprop:Generator_RowEvArgName="CandlesRowChangeEvent" msprop:Generator_RowClassName="CandlesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Symbol" msprop:Generator_ColumnVarNameInTable="columnSymbol" msprop:Generator_ColumnPropNameInRow="Symbol" msprop:Generator_ColumnPropNameInTable="SymbolColumn" msprop:Generator_UserColumnName="Symbol" type="xs:string" />
+              <xs:element name="CandleStartDateTime" msprop:Generator_ColumnVarNameInTable="columnCandleStartDateTime" msprop:Generator_ColumnPropNameInRow="CandleStartDateTime" msprop:Generator_ColumnPropNameInTable="CandleStartDateTimeColumn" msprop:Generator_UserColumnName="CandleStartDateTime" type="xs:dateTime" />
+              <xs:element name="EndTimeOrBarSizeDummy" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="EndTimeOrBarSizeDummy" msprop:Generator_ColumnVarNameInTable="columnEndTimeOrBarSizeDummy" msprop:Generator_ColumnPropNameInTable="EndTimeOrBarSizeDummyColumn" msprop:Generator_UserColumnName="EndTimeOrBarSizeDummy" type="xs:string" default="&quot;&quot;" />
+              <xs:element name="Open" msprop:Generator_ColumnVarNameInTable="columnOpen" msprop:Generator_ColumnPropNameInRow="Open" msprop:Generator_ColumnPropNameInTable="OpenColumn" msprop:Generator_UserColumnName="Open" type="xs:decimal" minOccurs="0" />
+              <xs:element name="High" msprop:Generator_ColumnVarNameInTable="columnHigh" msprop:Generator_ColumnPropNameInRow="High" msprop:Generator_ColumnPropNameInTable="HighColumn" msprop:Generator_UserColumnName="High" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Low" msprop:Generator_ColumnVarNameInTable="columnLow" msprop:Generator_ColumnPropNameInRow="Low" msprop:Generator_ColumnPropNameInTable="LowColumn" msprop:Generator_UserColumnName="Low" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Close" msprop:Generator_ColumnVarNameInTable="columnClose" msprop:Generator_ColumnPropNameInRow="Close" msprop:Generator_ColumnPropNameInTable="CloseColumn" msprop:Generator_UserColumnName="Close" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Volume" msprop:Generator_ColumnVarNameInTable="columnVolume" msprop:Generator_ColumnPropNameInRow="Volume" msprop:Generator_ColumnPropNameInTable="VolumeColumn" msprop:Generator_UserColumnName="Volume" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="HistoricalDataRequests" msprop:Generator_TableClassName="HistoricalDataRequestsDataTable" msprop:Generator_TableVarName="tableHistoricalDataRequests" msprop:Generator_TablePropName="HistoricalDataRequests" msprop:Generator_RowDeletingName="HistoricalDataRequestsRowDeleting" msprop:Generator_RowChangingName="HistoricalDataRequestsRowChanging" msprop:Generator_RowEvHandlerName="HistoricalDataRequestsRowChangeEventHandler" msprop:Generator_RowDeletedName="HistoricalDataRequestsRowDeleted" msprop:Generator_UserTableName="HistoricalDataRequests" msprop:Generator_RowChangedName="HistoricalDataRequestsRowChanged" msprop:Generator_RowEvArgName="HistoricalDataRequestsRowChangeEvent" msprop:Generator_RowClassName="HistoricalDataRequestsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RequestId" msprop:Generator_ColumnVarNameInTable="columnRequestId" msprop:Generator_ColumnPropNameInRow="RequestId" msprop:Generator_ColumnPropNameInTable="RequestIdColumn" msprop:Generator_UserColumnName="RequestId" type="xs:int" />
+              <xs:element name="Symbol" msprop:Generator_ColumnVarNameInTable="columnSymbol" msprop:Generator_ColumnPropNameInRow="Symbol" msprop:Generator_ColumnPropNameInTable="SymbolColumn" msprop:Generator_UserColumnName="Symbol" type="xs:string" minOccurs="0" />
+              <xs:element name="Completed" msprop:Generator_ColumnVarNameInTable="columnCompleted" msprop:Generator_ColumnPropNameInRow="Completed" msprop:Generator_ColumnPropNameInTable="CompletedColumn" msprop:Generator_UserColumnName="Completed" type="xs:boolean" default="false" minOccurs="0" />
+              <xs:element name="HasError" msprop:Generator_ColumnVarNameInTable="columnHasError" msprop:Generator_ColumnPropNameInRow="HasError" msprop:Generator_ColumnPropNameInTable="HasErrorColumn" msprop:Generator_UserColumnName="HasError" type="xs:boolean" default="false" minOccurs="0" />
+              <xs:element name="BarSize" msprop:Generator_ColumnVarNameInTable="columnBarSize" msprop:Generator_ColumnPropNameInRow="BarSize" msprop:Generator_ColumnPropNameInTable="BarSizeColumn" msprop:Generator_UserColumnName="BarSize" type="xs:duration" minOccurs="0" />
+              <xs:element name="Message" msprop:Generator_ColumnVarNameInTable="columnMessage" msprop:Generator_ColumnPropNameInRow="Message" msprop:Generator_ColumnPropNameInTable="MessageColumn" msprop:Generator_UserColumnName="Message" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Orders" />
+      <xs:field xpath="mstns:OrderId" />
+    </xs:unique>
+    <xs:unique name="Candles_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Candles" />
+      <xs:field xpath="mstns:CandleStartDateTime" />
+      <xs:field xpath="mstns:Symbol" />
+    </xs:unique>
+    <xs:unique name="HistoricalDataRequests_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:HistoricalDataRequests" />
+      <xs:field xpath="mstns:RequestId" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,2222 @@
+15-07-2014 09:50:25: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+15-07-2014 09:50:27: Clicked on 'Start Button'
+Debug 
+Information
+----------------------------------------
+15-07-2014 09:50:27: Starting Trader from BGWorker..
+Debug 
+Information
+----------------------------------------
+15-07-2014 09:50:30: Will wait 569.2111415 seconds
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:00: Scanning for the first time
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:00: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:00: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:00: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:00:00: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:00:01: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:01: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:01: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:01: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Symbol: AAPL. CandleStartTime: 15-07-2014 09:30:00. BL: 95.721 BU: 97.226
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Symbol: GOOG. CandleStartTime: 15-07-2014 09:30:00. BL: 577.890 BU: 585.694
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Long: 
+ 1: True 2: False 3: True 4: True 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Short: 
+ 1: True 2: True 3: True 4: True 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Long: 
+ 1: True 2: False 3: True 4: True 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Short: 
+ 1: True 2: False 3: True 4: True 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:03: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:04: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Symbol: MSFT. CandleStartTime: 15-07-2014 09:30:00. BL: 42.080 BU: 42.480
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:04: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:00:04: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:15:35: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:15:35: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:15:37: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:15:37: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:16:58: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:16:58: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:17:00: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:17:00: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:19:11: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:19:11: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:19:13: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:19:14: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 10:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Symbol: AAPL. CandleStartTime: 15-07-2014 10:30:00. BL: 96.015 BU: 96.985
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Long: 
+ 1: False 2: True 3: False 4: True 5: True 6: True - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: True - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Symbol: GOOG. CandleStartTime: 15-07-2014 10:30:00. BL: 579.237 BU: 585.497
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:08: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Symbol: MSFT. CandleStartTime: 15-07-2014 10:30:00. BL: 42.131 BU: 42.470
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:08: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 10:30:08: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Symbol: AAPL. CandleStartTime: 15-07-2014 11:00:00. BL: 95.762 BU: 97.122
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Long: 
+ 1: False 2: True 3: False 4: False 5: False 6: True - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: True - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Symbol: GOOG. CandleStartTime: 15-07-2014 11:00:00. BL: 579.880 BU: 585.083
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Long: 
+ 1: True 2: False 3: False 4: True 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Short: 
+ 1: True 2: False 3: False 4: True 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Symbol: MSFT. CandleStartTime: 15-07-2014 11:00:00. BL: 42.137 BU: 42.469
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:00:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:17:03: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:17:04: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:17:04: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:17:05: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:18:22: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:18:22: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:18:58: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:21:15: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:21:15: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:27:10: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:27:10: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:27:13: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:27:13: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 11:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Symbol: AAPL. CandleStartTime: 15-07-2014 11:30:00. BL: 95.632 BU: 97.172
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Long: 
+ 1: True 2: False 3: False 4: False 5: True 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Short: 
+ 1: True 2: False 3: False 4: False 5: True 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Symbol: GOOG. CandleStartTime: 15-07-2014 11:30:00. BL: 579.733 BU: 585.118
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Symbol: MSFT. CandleStartTime: 15-07-2014 11:30:00. BL: 42.128 BU: 42.470
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 11:30:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Symbol: AAPL. CandleStartTime: 15-07-2014 12:00:00. BL: 95.338 BU: 97.285
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Long: 
+ 1: False 2: True 3: False 4: False 5: False 6: True - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: True - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Symbol: GOOG. CandleStartTime: 15-07-2014 12:00:00. BL: 578.170 BU: 585.995
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Long: 
+ 1: False 2: True 3: False 4: False 5: False 6: True - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: True - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Symbol: MSFT. CandleStartTime: 15-07-2014 12:00:00. BL: 42.082 BU: 42.485
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:00:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Symbol: AAPL. CandleStartTime: 15-07-2014 12:30:00. BL: 95.187 BU: 97.281
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Symbol: GOOG. CandleStartTime: 15-07-2014 12:30:00. BL: 577.912 BU: 586.053
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Long: 
+ 1: True 2: False 3: False 4: True 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Short: 
+ 1: True 2: False 3: False 4: True 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Symbol: MSFT. CandleStartTime: 15-07-2014 12:30:00. BL: 42.039 BU: 42.498
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 12:30:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Symbol: AAPL. CandleStartTime: 15-07-2014 13:00:00. BL: 95.105 BU: 97.192
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Long: 
+ 1: True 2: False 3: False 4: True 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Short: 
+ 1: True 2: False 3: False 4: True 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Symbol: GOOG. CandleStartTime: 15-07-2014 13:00:00. BL: 577.769 BU: 586.063
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Symbol: MSFT. CandleStartTime: 15-07-2014 13:00:00. BL: 42.027 BU: 42.477
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Long: 
+ 1: True 2: False 3: False 4: False 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Short: 
+ 1: True 2: False 3: False 4: False 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:00:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Symbol: AAPL. CandleStartTime: 15-07-2014 13:30:00. BL: 95.040 BU: 97.128
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Symbol: GOOG. CandleStartTime: 15-07-2014 13:30:00. BL: 577.844 BU: 586.118
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Symbol: MSFT. CandleStartTime: 15-07-2014 13:30:00. BL: 42.024 BU: 42.449
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 13:30:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Symbol: AAPL. CandleStartTime: 15-07-2014 14:00:00. BL: 94.971 BU: 97.034
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Symbol: GOOG. CandleStartTime: 15-07-2014 14:00:00. BL: 577.870 BU: 586.148
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:07: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:08: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Symbol: MSFT. CandleStartTime: 15-07-2014 14:00:00. BL: 42.036 BU: 42.417
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:08: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:00:08: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Symbol: AAPL. CandleStartTime: 15-07-2014 14:30:00. BL: 94.949 BU: 96.910
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Symbol: GOOG. CandleStartTime: 15-07-2014 14:30:00. BL: 577.860 BU: 586.187
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Symbol: MSFT. CandleStartTime: 15-07-2014 14:30:00. BL: 42.043 BU: 42.404
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 14:30:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Symbol: AAPL. CandleStartTime: 15-07-2014 15:00:00. BL: 94.949 BU: 96.752
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Symbol: GOOG. CandleStartTime: 15-07-2014 15:00:00. BL: 577.923 BU: 586.471
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:07: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:08: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Symbol: MSFT. CandleStartTime: 15-07-2014 15:00:00. BL: 42.042 BU: 42.414
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:08: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:00:08: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:20:12: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:20:23: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:20:23: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:24:36: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:24:45: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:24:46: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:24:48: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 15:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Symbol: AAPL. CandleStartTime: 15-07-2014 15:30:00. BL: 94.980 BU: 96.556
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Symbol: GOOG. CandleStartTime: 15-07-2014 15:30:00. BL: 577.929 BU: 586.366
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:06: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Symbol: MSFT. CandleStartTime: 15-07-2014 15:30:00. BL: 42.042 BU: 42.420
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:07: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 15:30:07: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 16:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 16:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 16:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 16:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 16:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 16:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 17:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 17:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 17:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 17:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 17:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 17:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 17:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 18:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 18:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 18:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 18:30:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:30:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:30:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 18:30:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:30:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 18:30:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 18:30:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 19:00:04: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 19:00:04: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 19:00:04: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 19:00:05: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 19:00:05: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 19:00:06: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 19:00:06: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:07: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:07: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:07: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:08: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:08: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:09: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:09: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:22: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:22: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:43: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:43: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:44: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:50: TWS Error: 200 - No security definition has been found for the request, ID: 10059
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:50: Historical Data request Error: TWS Error: 200 - No security definition has been found for the request, ID: 10059
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:54: TWS Error: 200 - No security definition has been found for the request, ID: 10060
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:54: Historical Data request Error: TWS Error: 200 - No security definition has been found for the request, ID: 10060
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:54: TWS Error: 200 - No security definition has been found for the request, ID: 10058
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:54: Historical Data request Error: TWS Error: 200 - No security definition has been found for the request, ID: 10058
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:54: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+15-07-2014 21:33:54: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:54: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Symbol: GOOG. CandleStartTime: 15-07-2014 15:30:00. BL: 577.929 BU: 586.366
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Symbol: MSFT. CandleStartTime: 15-07-2014 15:30:00. BL: 42.042 BU: 42.420
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Long: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol:MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: GOOG
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Signal: NoSignal - Symbol: GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Short: 
+ 1: True 2: False 3: False 4: True 5: True 6: False - Symbol: MSFT
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Signal: NoSignal - Symbol: MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Symbol: AAPL. CandleStartTime: 15-07-2014 15:30:00. BL: 94.980 BU: 96.556
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Long: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol:AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Short: 
+ 1: True 2: False 3: False 4: False 5: False 6: False - Symbol: AAPL
+Debug 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: Signal: NoSignal - Symbol: AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 21:33:55: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:03:07: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:03:07: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:03:07: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 22:03:08: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:03:08: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 22:03:09: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:03:09: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 22:33:07: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:33:07: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:33:07: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 22:33:08: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:33:08: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 22:33:09: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 22:33:09: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+15-07-2014 23:03:07: In the timer tick now
+Debug 
+Information
+----------------------------------------
+15-07-2014 23:03:07: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+15-07-2014 23:03:07: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+15-07-2014 23:03:08: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+15-07-2014 23:03:08: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+15-07-2014 23:03:09: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+15-07-2014 23:03:09: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------

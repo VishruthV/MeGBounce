@@ -1,0 +1,240 @@
+01-07-2014 13:38:08: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:09: Clicked on 'Start Button'
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:09: Starting Trader from BGWorker..
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:11: Will wait -13091.8316399 seconds
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:11: Scanning for the first time
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:11: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:11: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:13: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:13: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:cashfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:13: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:13: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:14: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:14: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:16: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:16: Symbol: AAPL. CandleStartTime: 01-07-2014 13:30:00. BL: 92.993 BU: 94.275
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:16: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:16: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:16: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:17: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:17: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:17: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:17: Symbol: GOOG. CandleStartTime: 01-07-2014 13:30:00. BL: 573.687 BU: 583.411
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:17: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:17: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:17: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:19: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:19: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:19: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:19: Symbol: MSFT. CandleStartTime: 01-07-2014 13:30:00. BL: 41.687 BU: 42.205
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:19: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 13:38:19: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+01-07-2014 13:38:31: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:31: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:31: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.cashfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:31: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.cashfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:32: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.hkfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 13:38:32: TWS Error: 2108 - Market data farm connection is inactive but should be available upon demand.cashfarm, ID: -1
+General 
+Error
+----------------------------------------
+01-07-2014 14:08:19: In the timer tick now
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:19: Calling DoScanAsync(AAPL)
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:19: Fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:20: Finished fetching Historical data for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:20: Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:20: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:20: Symbol: AAPL. CandleStartTime: 01-07-2014 14:00:00. BL: 93.081 BU: 94.265
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:20: Finished Checking Signal for AAPL
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:20: Calling DoScanAsync(GOOG)
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:20: Fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:21: Finished fetching Historical data for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:21: Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:21: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:21: Symbol: GOOG. CandleStartTime: 01-07-2014 14:00:00. BL: 573.917 BU: 584.033
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:21: Finished Checking Signal for GOOG
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:21: Calling DoScanAsync(MSFT)
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:21: Fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:22: Finished fetching Historical data for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:22: Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:22: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:22: Symbol: MSFT. CandleStartTime: 01-07-2014 14:00:00. BL: 41.688 BU: 42.210
+Debug 
+Information
+----------------------------------------
+01-07-2014 14:08:22: Finished Checking Signal for MSFT
+General 
+Information
+----------------------------------------
+01-07-2014 14:08:22: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------

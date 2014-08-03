@@ -1,0 +1,5017 @@
+09-07-2014 06:41:44: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+09-07-2014 06:41:48: Clicked on 'Start Button'
+Debug 
+Information
+----------------------------------------
+09-07-2014 06:41:48: Starting Trader from BGWorker..
+Debug 
+Information
+----------------------------------------
+09-07-2014 06:41:52: Will wait 11887.8877317 seconds
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:00: Scanning for the first time
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:00: Calling DoScanAsync(ACC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:00: Fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:00: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 10:00:00: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 10:00:01: Calling DoScanAsync(AMBUJACEM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:01: Fetching Historical data for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:02: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 10:00:02: Finished fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:02: Checking Signal for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Finished fetching Historical data for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Checking Signal for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Symbol: ACC. CandleStartTime: 09-07-2014 09:30:00. BL: 1406.745 BU: 1458.715
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Symbol: AMBUJACEM. CandleStartTime: 09-07-2014 09:30:00. BL: 217.311 BU: 227.783
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Finished Checking Signal for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Finished Checking Signal for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Signal: NoSignal - Symbol: AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Signal: NoSignal - Symbol: ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Calling DoScanAsync(ASIANPAIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:05: Fetching Historical data for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Finished fetching Historical data for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Checking Signal for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Symbol: ASIANPAIN. CandleStartTime: 09-07-2014 10:00:00. BL: 588.486 BU: 605.108
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Finished Checking Signal for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Signal: NoSignal - Symbol: ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Calling DoScanAsync(AXISBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:06: Fetching Historical data for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Calling DoScanAsync(BAJAJ-AUT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Fetching Historical data for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Finished fetching Historical data for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Checking Signal for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Symbol: AXISBANK. CandleStartTime: 09-07-2014 10:00:00. BL: 1870.022 BU: 1940.531
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Finished Checking Signal for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:07: Signal: NoSignal - Symbol: AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Finished fetching Historical data for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Checking Signal for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:08: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Symbol: BAJAJ-AUT. CandleStartTime: 09-07-2014 10:00:00. BL: 2203.646 BU: 2352.954
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Finished Checking Signal for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Signal: NoSignal - Symbol: BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Calling DoScanAsync(BANKBAROD)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:08: Fetching Historical data for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Calling DoScanAsync(BHARTIART)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Fetching Historical data for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Finished fetching Historical data for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Checking Signal for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:09: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Symbol: BANKBAROD. CandleStartTime: 09-07-2014 10:00:00. BL: 821.378 BU: 882.235
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Finished Checking Signal for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:09: Signal: NoSignal - Symbol: BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Finished fetching Historical data for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Checking Signal for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:10: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Symbol: BHARTIART. CandleStartTime: 09-07-2014 10:00:00. BL: 339.818 BU: 347.335
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Finished Checking Signal for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Signal: NoSignal - Symbol: BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Calling DoScanAsync(BHEL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:10: Fetching Historical data for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Finished fetching Historical data for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Checking Signal for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:11: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Symbol: BHEL. CandleStartTime: 09-07-2014 10:00:00. BL: 237.919 BU: 274.335
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Finished Checking Signal for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Signal: NoSignal - Symbol: BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Calling DoScanAsync(BPCL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:11: Fetching Historical data for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Finished fetching Historical data for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Checking Signal for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:12: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Symbol: BPCL. CandleStartTime: 09-07-2014 10:00:00. BL: 568.200 BU: 601.713
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Finished Checking Signal for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Signal: NoSignal - Symbol: BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Calling DoScanAsync(CAIRN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:12: Fetching Historical data for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Calling DoScanAsync(CIPLA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Fetching Historical data for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Finished fetching Historical data for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Checking Signal for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:13: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Symbol: CAIRN. CandleStartTime: 09-07-2014 10:00:00. BL: 347.256 BU: 372.004
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Finished Checking Signal for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:13: Signal: NoSignal - Symbol: CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Finished fetching Historical data for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Checking Signal for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:14: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Symbol: CIPLA. CandleStartTime: 09-07-2014 10:00:00. BL: 438.193 BU: 466.507
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Finished Checking Signal for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Signal: NoSignal - Symbol: CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Calling DoScanAsync(COALINDIA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:14: Fetching Historical data for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Calling DoScanAsync(DLF)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Fetching Historical data for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Finished fetching Historical data for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Checking Signal for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:15: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Symbol: COALINDIA. CandleStartTime: 09-07-2014 10:00:00. BL: 370.294 BU: 402.006
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Finished Checking Signal for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:15: Signal: NoSignal - Symbol: COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Calling DoScanAsync(DRREDDY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Fetching Historical data for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Finished fetching Historical data for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Checking Signal for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:16: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Symbol: DLF. CandleStartTime: 09-07-2014 10:00:00. BL: 201.006 BU: 228.000
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Finished Checking Signal for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:16: Signal: NoSignal - Symbol: DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Finished fetching Historical data for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Checking Signal for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:17: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Symbol: DRREDDY. CandleStartTime: 09-07-2014 10:00:00. BL: 2647.099 BU: 2784.654
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Finished Checking Signal for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Signal: NoSignal - Symbol: DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Calling DoScanAsync(GAIL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:17: Fetching Historical data for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Finished fetching Historical data for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Checking Signal for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:18: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Symbol: GAIL. CandleStartTime: 09-07-2014 10:00:00. BL: 454.797 BU: 466.256
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Finished Checking Signal for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Signal: NoSignal - Symbol: GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Calling DoScanAsync(GRASIM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:18: Fetching Historical data for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Calling DoScanAsync(HCLTECH)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Fetching Historical data for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Finished fetching Historical data for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Checking Signal for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:19: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Symbol: GRASIM. CandleStartTime: 09-07-2014 10:00:00. BL: 3250.842 BU: 3378.851
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Finished Checking Signal for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:19: Signal: NoSignal - Symbol: GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Finished fetching Historical data for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Checking Signal for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:20: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Symbol: HCLTECH. CandleStartTime: 09-07-2014 10:00:00. BL: 1460.635 BU: 1500.525
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Finished Checking Signal for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Signal: NoSignal - Symbol: HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Calling DoScanAsync(HDFC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:20: Fetching Historical data for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Finished fetching Historical data for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Checking Signal for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:21: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Symbol: HDFC. CandleStartTime: 09-07-2014 10:00:00. BL: 1010.737 BU: 1053.423
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Finished Checking Signal for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Signal: NoSignal - Symbol: HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Calling DoScanAsync(HDFCBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:21: Fetching Historical data for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Finished fetching Historical data for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Checking Signal for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:22: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Symbol: HDFCBANK. CandleStartTime: 09-07-2014 10:00:00. BL: 825.517 BU: 849.656
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Finished Checking Signal for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Signal: NoSignal - Symbol: HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Calling DoScanAsync(HEROMOTOC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:22: Fetching Historical data for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Finished fetching Historical data for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Checking Signal for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:23: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Symbol: HEROMOTOC. CandleStartTime: 09-07-2014 10:00:00. BL: 2542.387 BU: 2645.000
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Finished Checking Signal for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Signal: NoSignal - Symbol: HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Calling DoScanAsync(HINDALCO)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:23: Fetching Historical data for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Finished fetching Historical data for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Checking Signal for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:24: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Symbol: HINDALCO. CandleStartTime: 09-07-2014 10:00:00. BL: 168.736 BU: 175.857
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Finished Checking Signal for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Signal: NoSignal - Symbol: HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Calling DoScanAsync(HINDUNILV)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:24: Fetching Historical data for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Finished fetching Historical data for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Checking Signal for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:25: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Symbol: HINDUNILV. CandleStartTime: 09-07-2014 10:00:00. BL: 623.986 BU: 633.800
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Finished Checking Signal for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Signal: NoSignal - Symbol: HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Calling DoScanAsync(ICICIBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:25: Fetching Historical data for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Calling DoScanAsync(IDFC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Fetching Historical data for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Finished fetching Historical data for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Checking Signal for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:26: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Symbol: ICICIBANK. CandleStartTime: 09-07-2014 10:00:00. BL: 1403.766 BU: 1458.454
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Finished Checking Signal for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:26: Signal: NoSignal - Symbol: ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Calling DoScanAsync(INDUSINDB)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Fetching Historical data for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Finished fetching Historical data for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Checking Signal for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:27: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Symbol: IDFC. CandleStartTime: 09-07-2014 10:00:00. BL: 135.627 BU: 145.446
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Finished Checking Signal for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:27: Signal: NoSignal - Symbol: IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Finished fetching Historical data for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Checking Signal for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:28: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Symbol: INDUSINDB. CandleStartTime: 09-07-2014 10:00:00. BL: 550.574 BU: 567.946
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Finished Checking Signal for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Signal: NoSignal - Symbol: INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Calling DoScanAsync(INFY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:28: Fetching Historical data for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Finished fetching Historical data for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Checking Signal for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:29: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Symbol: INFY. CandleStartTime: 09-07-2014 10:00:00. BL: 3321.168 BU: 3373.532
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Finished Checking Signal for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Signal: NoSignal - Symbol: INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Calling DoScanAsync(ITC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:29: Fetching Historical data for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Finished fetching Historical data for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Checking Signal for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:30: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Symbol: ITC. CandleStartTime: 09-07-2014 10:00:00. BL: 332.231 BU: 339.329
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Finished Checking Signal for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Signal: NoSignal - Symbol: ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Calling DoScanAsync(JINDALSTE)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:30: Fetching Historical data for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Calling DoScanAsync(JPASSOCIA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Fetching Historical data for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Finished fetching Historical data for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Checking Signal for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:31: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Symbol: JINDALSTE. CandleStartTime: 09-07-2014 10:00:00. BL: 301.651 BU: 333.722
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Finished Checking Signal for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:31: Signal: NoSignal - Symbol: JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Finished fetching Historical data for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Checking Signal for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:32: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Symbol: JPASSOCIA. CandleStartTime: 09-07-2014 10:00:00. BL: 64.807 BU: 75.893
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Finished Checking Signal for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Signal: NoSignal - Symbol: JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Calling DoScanAsync(KOTAKBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:32: Fetching Historical data for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Finished fetching Historical data for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Checking Signal for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:33: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Symbol: KOTAKBANK. CandleStartTime: 09-07-2014 10:00:00. BL: 864.020 BU: 899.400
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Finished Checking Signal for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Signal: NoSignal - Symbol: KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Calling DoScanAsync(LT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:33: Fetching Historical data for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Finished fetching Historical data for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Checking Signal for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:34: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Symbol: LT. CandleStartTime: 09-07-2014 10:00:00. BL: 1653.709 BU: 1785.991
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Finished Checking Signal for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Signal: NoSignal - Symbol: LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Calling DoScanAsync(LUPIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:34: Fetching Historical data for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Finished fetching Historical data for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Checking Signal for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:35: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Symbol: LUPIN. CandleStartTime: 09-07-2014 10:00:00. BL: 1043.948 BU: 1104.725
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Finished Checking Signal for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Signal: NoSignal - Symbol: LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Calling DoScanAsync(MM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:35: Fetching Historical data for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Finished fetching Historical data for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Checking Signal for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:36: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Symbol: MM. CandleStartTime: 09-07-2014 10:00:00. BL: 1191.501 BU: 1241.292
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Finished Checking Signal for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Signal: NoSignal - Symbol: MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Calling DoScanAsync(MARUTI)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:36: Fetching Historical data for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Calling DoScanAsync(NMDC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Fetching Historical data for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Finished fetching Historical data for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Checking Signal for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:37: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Symbol: MARUTI. CandleStartTime: 09-07-2014 10:00:00. BL: 2579.571 BU: 2638.542
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Finished Checking Signal for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:37: Signal: NoSignal - Symbol: MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Finished fetching Historical data for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Checking Signal for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:38: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Symbol: NMDC. CandleStartTime: 09-07-2014 10:00:00. BL: 170.456 BU: 184.258
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Finished Checking Signal for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Signal: NoSignal - Symbol: NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Calling DoScanAsync(NTPC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:38: Fetching Historical data for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Finished fetching Historical data for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Checking Signal for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:39: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Symbol: NTPC. CandleStartTime: 09-07-2014 10:00:00. BL: 149.975 BU: 164.631
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Finished Checking Signal for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Signal: NoSignal - Symbol: NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Calling DoScanAsync(ONGC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:39: Fetching Historical data for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Finished fetching Historical data for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Checking Signal for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:40: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Symbol: ONGC. CandleStartTime: 09-07-2014 10:00:00. BL: 393.055 BU: 417.705
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Finished Checking Signal for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Signal: NoSignal - Symbol: ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Calling DoScanAsync(PNB)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:40: Fetching Historical data for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Calling DoScanAsync(POWERGRID)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Fetching Historical data for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Finished fetching Historical data for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Checking Signal for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:41: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Symbol: PNB. CandleStartTime: 09-07-2014 10:00:00. BL: 919.101 BU: 990.172
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Finished Checking Signal for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:41: Signal: NoSignal - Symbol: PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Calling DoScanAsync(RANBAXY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Fetching Historical data for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Finished fetching Historical data for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Checking Signal for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:42: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Symbol: POWERGRID. CandleStartTime: 09-07-2014 10:00:00. BL: 134.847 BU: 146.346
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Finished Checking Signal for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:42: Signal: NoSignal - Symbol: POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Finished fetching Historical data for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Checking Signal for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:43: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Symbol: RANBAXY. CandleStartTime: 09-07-2014 10:00:00. BL: 540.778 BU: 557.249
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Finished Checking Signal for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Signal: NoSignal - Symbol: RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Calling DoScanAsync(RELIANCE)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:43: Fetching Historical data for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Finished fetching Historical data for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Checking Signal for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:44: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Symbol: RELIANCE. CandleStartTime: 09-07-2014 10:00:00. BL: 993.147 BU: 1028.846
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Finished Checking Signal for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Signal: NoSignal - Symbol: RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Calling DoScanAsync(SBIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:44: Fetching Historical data for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Finished fetching Historical data for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Checking Signal for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:45: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Symbol: SBIN. CandleStartTime: 09-07-2014 10:00:00. BL: 2558.250 BU: 2717.403
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Finished Checking Signal for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Signal: NoSignal - Symbol: SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Calling DoScanAsync(SSLT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:45: Fetching Historical data for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Finished fetching Historical data for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Checking Signal for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:46: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Symbol: SSLT. CandleStartTime: 09-07-2014 10:00:00. BL: 289.361 BU: 305.319
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Finished Checking Signal for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Signal: NoSignal - Symbol: SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Calling DoScanAsync(SUNPHARMA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:46: Fetching Historical data for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Calling DoScanAsync(TATAMOTOR)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Fetching Historical data for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Finished fetching Historical data for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Checking Signal for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:47: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Symbol: SUNPHARMA. CandleStartTime: 09-07-2014 10:00:00. BL: 720.393 BU: 745.867
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Finished Checking Signal for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:47: Signal: NoSignal - Symbol: SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Finished fetching Historical data for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Checking Signal for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:48: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Symbol: TATAMOTOR. CandleStartTime: 09-07-2014 10:00:00. BL: 460.379 BU: 486.634
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Finished Checking Signal for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Signal: NoSignal - Symbol: TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Calling DoScanAsync(TATAPOWER)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:48: Fetching Historical data for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Finished fetching Historical data for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Checking Signal for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:49: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Symbol: TATAPOWER. CandleStartTime: 09-07-2014 10:00:00. BL: 103.219 BU: 114.641
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Finished Checking Signal for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Signal: NoSignal - Symbol: TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Calling DoScanAsync(TATASTEEL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:49: Fetching Historical data for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Calling DoScanAsync(TCS)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Fetching Historical data for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Finished fetching Historical data for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Checking Signal for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:50: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Symbol: TATASTEEL. CandleStartTime: 09-07-2014 10:00:00. BL: 513.482 BU: 539.751
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Finished Checking Signal for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:50: Signal: NoSignal - Symbol: TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Finished fetching Historical data for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Checking Signal for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:51: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Symbol: TCS. CandleStartTime: 09-07-2014 10:00:00. BL: 2434.667 BU: 2480.693
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Finished Checking Signal for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Signal: NoSignal - Symbol: TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Calling DoScanAsync(ULTRACEMC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:51: Fetching Historical data for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Calling DoScanAsync(WIPRO)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Fetching Historical data for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Finished fetching Historical data for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Checking Signal for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:52: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Symbol: ULTRACEMC. CandleStartTime: 09-07-2014 10:00:00. BL: 2478.845 BU: 2533.995
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Finished Checking Signal for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:52: Signal: NoSignal - Symbol: ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:53: Finished fetching Historical data for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:53: Checking Signal for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:53: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:53: Symbol: WIPRO. CandleStartTime: 09-07-2014 10:00:00. BL: 545.266 BU: 557.514
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:00:53: Finished Checking Signal for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:53: Signal: NoSignal - Symbol: WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:00:53: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:53: In the timer tick now
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:53: Calling DoScanAsync(ACC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:53: Fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Finished fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Checking Signal for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:54: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Symbol: ACC. CandleStartTime: 09-07-2014 10:30:00. BL: 1406.448 BU: 1453.039
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Finished Checking Signal for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Signal: NoSignal - Symbol: ACC
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Calling DoScanAsync(AMBUJACEM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:54: Fetching Historical data for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Finished fetching Historical data for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Checking Signal for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:55: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Symbol: AMBUJACEM. CandleStartTime: 09-07-2014 10:30:00. BL: 216.897 BU: 227.650
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Finished Checking Signal for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Signal: NoSignal - Symbol: AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Calling DoScanAsync(ASIANPAIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:55: Fetching Historical data for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Finished fetching Historical data for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Checking Signal for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:56: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Symbol: ASIANPAIN. CandleStartTime: 09-07-2014 10:30:00. BL: 588.505 BU: 605.109
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Finished Checking Signal for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Signal: NoSignal - Symbol: ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Calling DoScanAsync(AXISBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:56: Fetching Historical data for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Finished fetching Historical data for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Checking Signal for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:57: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Symbol: AXISBANK. CandleStartTime: 09-07-2014 10:30:00. BL: 1866.871 BU: 1939.596
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Finished Checking Signal for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Signal: NoSignal - Symbol: AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Calling DoScanAsync(BAJAJ-AUT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:57: Fetching Historical data for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Finished fetching Historical data for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Checking Signal for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:58: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Symbol: BAJAJ-AUT. CandleStartTime: 09-07-2014 10:30:00. BL: 2187.994 BU: 2354.532
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Finished Checking Signal for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Signal: NoSignal - Symbol: BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Calling DoScanAsync(BANKBAROD)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:58: Fetching Historical data for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Finished fetching Historical data for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Checking Signal for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:59: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Symbol: BANKBAROD. CandleStartTime: 09-07-2014 10:30:00. BL: 819.418 BU: 880.109
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Finished Checking Signal for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Signal: NoSignal - Symbol: BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Calling DoScanAsync(BHARTIART)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:30:59: Fetching Historical data for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Finished fetching Historical data for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Checking Signal for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:00: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Symbol: BHARTIART. CandleStartTime: 09-07-2014 10:30:00. BL: 339.624 BU: 347.130
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Finished Checking Signal for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Signal: NoSignal - Symbol: BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Calling DoScanAsync(BHEL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:00: Fetching Historical data for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Finished fetching Historical data for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Checking Signal for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:01: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Symbol: BHEL. CandleStartTime: 09-07-2014 10:30:00. BL: 236.457 BU: 273.270
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Finished Checking Signal for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Signal: NoSignal - Symbol: BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Calling DoScanAsync(BPCL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:01: Fetching Historical data for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Finished fetching Historical data for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Checking Signal for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:02: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Symbol: BPCL. CandleStartTime: 09-07-2014 10:30:00. BL: 567.457 BU: 601.089
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Finished Checking Signal for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Signal: NoSignal - Symbol: BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Calling DoScanAsync(CAIRN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:02: Fetching Historical data for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Finished fetching Historical data for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Checking Signal for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:03: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Symbol: CAIRN. CandleStartTime: 09-07-2014 10:30:00. BL: 345.239 BU: 372.128
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Finished Checking Signal for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Signal: NoSignal - Symbol: CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Calling DoScanAsync(CIPLA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:03: Fetching Historical data for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Finished fetching Historical data for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Checking Signal for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:04: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Symbol: CIPLA. CandleStartTime: 09-07-2014 10:30:00. BL: 436.742 BU: 466.824
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Finished Checking Signal for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Signal: NoSignal - Symbol: CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Calling DoScanAsync(COALINDIA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:04: Fetching Historical data for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Finished fetching Historical data for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Checking Signal for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Symbol: COALINDIA. CandleStartTime: 09-07-2014 10:30:00. BL: 367.337 BU: 401.509
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Finished Checking Signal for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Signal: NoSignal - Symbol: COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Calling DoScanAsync(DLF)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:05: Fetching Historical data for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Finished fetching Historical data for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Checking Signal for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Symbol: DLF. CandleStartTime: 09-07-2014 10:30:00. BL: 199.707 BU: 226.826
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Finished Checking Signal for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Signal: NoSignal - Symbol: DLF
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Calling DoScanAsync(DRREDDY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:06: Fetching Historical data for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Finished fetching Historical data for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Checking Signal for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Symbol: DRREDDY. CandleStartTime: 09-07-2014 10:30:00. BL: 2634.442 BU: 2786.638
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Finished Checking Signal for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Signal: NoSignal - Symbol: DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Calling DoScanAsync(GAIL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:07: Fetching Historical data for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Finished fetching Historical data for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Checking Signal for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:08: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Symbol: GAIL. CandleStartTime: 09-07-2014 10:30:00. BL: 454.809 BU: 466.484
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Finished Checking Signal for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Signal: NoSignal - Symbol: GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Calling DoScanAsync(GRASIM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:08: Fetching Historical data for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Finished fetching Historical data for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Checking Signal for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:09: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Symbol: GRASIM. CandleStartTime: 09-07-2014 10:30:00. BL: 3246.003 BU: 3372.504
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Finished Checking Signal for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Signal: NoSignal - Symbol: GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Calling DoScanAsync(HCLTECH)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:09: Fetching Historical data for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Finished fetching Historical data for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Checking Signal for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:10: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Symbol: HCLTECH. CandleStartTime: 09-07-2014 10:30:00. BL: 1465.071 BU: 1493.295
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Finished Checking Signal for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Signal: NoSignal - Symbol: HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Calling DoScanAsync(HDFC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:10: Fetching Historical data for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Finished fetching Historical data for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Checking Signal for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:11: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Symbol: HDFC. CandleStartTime: 09-07-2014 10:30:00. BL: 1011.423 BU: 1053.157
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Finished Checking Signal for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Signal: NoSignal - Symbol: HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Calling DoScanAsync(HDFCBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:11: Fetching Historical data for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Finished fetching Historical data for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Checking Signal for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:12: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Symbol: HDFCBANK. CandleStartTime: 09-07-2014 10:30:00. BL: 824.119 BU: 849.647
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Finished Checking Signal for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Signal: NoSignal - Symbol: HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Calling DoScanAsync(HEROMOTOC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:12: Fetching Historical data for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Finished fetching Historical data for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Checking Signal for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:13: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Symbol: HEROMOTOC. CandleStartTime: 09-07-2014 10:30:00. BL: 2537.097 BU: 2643.756
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Finished Checking Signal for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Signal: NoSignal - Symbol: HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Calling DoScanAsync(HINDALCO)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:13: Fetching Historical data for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Finished fetching Historical data for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Checking Signal for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:14: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Symbol: HINDALCO. CandleStartTime: 09-07-2014 10:30:00. BL: 168.538 BU: 176.242
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Finished Checking Signal for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Signal: NoSignal - Symbol: HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Calling DoScanAsync(HINDUNILV)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:14: Fetching Historical data for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Finished fetching Historical data for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Checking Signal for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:15: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Symbol: HINDUNILV. CandleStartTime: 09-07-2014 10:30:00. BL: 624.353 BU: 633.967
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Finished Checking Signal for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Signal: NoSignal - Symbol: HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Calling DoScanAsync(ICICIBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:15: Fetching Historical data for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Finished fetching Historical data for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Checking Signal for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:16: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Symbol: ICICIBANK. CandleStartTime: 09-07-2014 10:30:00. BL: 1402.913 BU: 1454.887
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Finished Checking Signal for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Signal: NoSignal - Symbol: ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Calling DoScanAsync(IDFC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:16: Fetching Historical data for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Finished fetching Historical data for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Checking Signal for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:17: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Symbol: IDFC. CandleStartTime: 09-07-2014 10:30:00. BL: 135.408 BU: 145.238
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Finished Checking Signal for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Signal: NoSignal - Symbol: IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Calling DoScanAsync(INDUSINDB)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:17: Fetching Historical data for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Finished fetching Historical data for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Checking Signal for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:18: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Symbol: INDUSINDB. CandleStartTime: 09-07-2014 10:30:00. BL: 550.301 BU: 567.999
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Finished Checking Signal for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Signal: NoSignal - Symbol: INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Calling DoScanAsync(INFY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:18: Fetching Historical data for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Finished fetching Historical data for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Checking Signal for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:19: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Symbol: INFY. CandleStartTime: 09-07-2014 10:30:00. BL: 3317.340 BU: 3374.867
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Finished Checking Signal for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Signal: NoSignal - Symbol: INFY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Calling DoScanAsync(ITC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:19: Fetching Historical data for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Finished fetching Historical data for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Checking Signal for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:20: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Symbol: ITC. CandleStartTime: 09-07-2014 10:30:00. BL: 332.238 BU: 339.928
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Finished Checking Signal for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Signal: NoSignal - Symbol: ITC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Calling DoScanAsync(JINDALSTE)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:20: Fetching Historical data for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Finished fetching Historical data for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Checking Signal for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:21: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Symbol: JINDALSTE. CandleStartTime: 09-07-2014 10:30:00. BL: 300.605 BU: 332.062
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Finished Checking Signal for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Signal: NoSignal - Symbol: JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Calling DoScanAsync(JPASSOCIA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:21: Fetching Historical data for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Finished fetching Historical data for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Checking Signal for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:22: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Symbol: JPASSOCIA. CandleStartTime: 09-07-2014 10:30:00. BL: 64.261 BU: 75.553
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Finished Checking Signal for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Signal: NoSignal - Symbol: JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Calling DoScanAsync(KOTAKBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:22: Fetching Historical data for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Finished fetching Historical data for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Checking Signal for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:23: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Symbol: KOTAKBANK. CandleStartTime: 09-07-2014 10:30:00. BL: 861.707 BU: 899.786
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Finished Checking Signal for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Signal: NoSignal - Symbol: KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Calling DoScanAsync(LT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:23: Fetching Historical data for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Finished fetching Historical data for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Checking Signal for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:24: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Symbol: LT. CandleStartTime: 09-07-2014 10:30:00. BL: 1645.648 BU: 1783.958
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Finished Checking Signal for LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Signal: NoSignal - Symbol: LT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Calling DoScanAsync(LUPIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:24: Fetching Historical data for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Finished fetching Historical data for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Checking Signal for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:25: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Symbol: LUPIN. CandleStartTime: 09-07-2014 10:30:00. BL: 1038.935 BU: 1105.138
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Finished Checking Signal for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Signal: NoSignal - Symbol: LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Calling DoScanAsync(MM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:25: Fetching Historical data for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Finished fetching Historical data for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Checking Signal for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:26: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Symbol: MM. CandleStartTime: 09-07-2014 10:30:00. BL: 1187.942 BU: 1238.338
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Finished Checking Signal for MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Signal: NoSignal - Symbol: MM
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Calling DoScanAsync(MARUTI)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:26: Fetching Historical data for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Finished fetching Historical data for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Checking Signal for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:27: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Symbol: MARUTI. CandleStartTime: 09-07-2014 10:30:00. BL: 2582.771 BU: 2628.829
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Finished Checking Signal for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Signal: NoSignal - Symbol: MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Calling DoScanAsync(NMDC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:27: Fetching Historical data for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Finished fetching Historical data for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Checking Signal for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:28: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Symbol: NMDC. CandleStartTime: 09-07-2014 10:30:00. BL: 170.353 BU: 183.253
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Finished Checking Signal for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Signal: NoSignal - Symbol: NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Calling DoScanAsync(NTPC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:28: Fetching Historical data for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Finished fetching Historical data for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Checking Signal for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:29: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Symbol: NTPC. CandleStartTime: 09-07-2014 10:30:00. BL: 149.110 BU: 164.183
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Finished Checking Signal for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Signal: NoSignal - Symbol: NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Calling DoScanAsync(ONGC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:29: Fetching Historical data for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Finished fetching Historical data for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Checking Signal for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:30: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Symbol: ONGC. CandleStartTime: 09-07-2014 10:30:00. BL: 393.158 BU: 415.635
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Finished Checking Signal for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Signal: NoSignal - Symbol: ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Calling DoScanAsync(PNB)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:30: Fetching Historical data for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Finished fetching Historical data for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Checking Signal for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:31: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Symbol: PNB. CandleStartTime: 09-07-2014 10:30:00. BL: 916.197 BU: 988.397
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Finished Checking Signal for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Signal: NoSignal - Symbol: PNB
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Calling DoScanAsync(POWERGRID)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:31: Fetching Historical data for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Finished fetching Historical data for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Checking Signal for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:32: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Symbol: POWERGRID. CandleStartTime: 09-07-2014 10:30:00. BL: 134.666 BU: 145.274
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Finished Checking Signal for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Signal: NoSignal - Symbol: POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Calling DoScanAsync(RANBAXY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:32: Fetching Historical data for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Finished fetching Historical data for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Checking Signal for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:33: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Symbol: RANBAXY. CandleStartTime: 09-07-2014 10:30:00. BL: 537.358 BU: 558.882
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Finished Checking Signal for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Signal: NoSignal - Symbol: RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Calling DoScanAsync(RELIANCE)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:33: Fetching Historical data for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Finished fetching Historical data for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Checking Signal for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:34: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Symbol: RELIANCE. CandleStartTime: 09-07-2014 10:30:00. BL: 993.116 BU: 1025.851
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Finished Checking Signal for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Signal: NoSignal - Symbol: RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Calling DoScanAsync(SBIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:34: Fetching Historical data for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Finished fetching Historical data for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Checking Signal for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:35: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Symbol: SBIN. CandleStartTime: 09-07-2014 10:30:00. BL: 2553.169 BU: 2710.744
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Finished Checking Signal for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Signal: NoSignal - Symbol: SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Calling DoScanAsync(SSLT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:35: Fetching Historical data for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Finished fetching Historical data for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Checking Signal for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:36: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Symbol: SSLT. CandleStartTime: 09-07-2014 10:30:00. BL: 290.508 BU: 302.505
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Finished Checking Signal for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Signal: NoSignal - Symbol: SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Calling DoScanAsync(SUNPHARMA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:36: Fetching Historical data for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Finished fetching Historical data for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Checking Signal for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:37: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Symbol: SUNPHARMA. CandleStartTime: 09-07-2014 10:30:00. BL: 716.273 BU: 746.654
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Finished Checking Signal for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Signal: NoSignal - Symbol: SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Calling DoScanAsync(TATAMOTOR)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:37: Fetching Historical data for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Finished fetching Historical data for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Checking Signal for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:38: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Symbol: TATAMOTOR. CandleStartTime: 09-07-2014 10:30:00. BL: 457.574 BU: 486.832
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Finished Checking Signal for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Signal: NoSignal - Symbol: TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Calling DoScanAsync(TATAPOWER)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:38: Fetching Historical data for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Finished fetching Historical data for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Checking Signal for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:39: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Symbol: TATAPOWER. CandleStartTime: 09-07-2014 10:30:00. BL: 102.228 BU: 114.666
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Finished Checking Signal for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Signal: NoSignal - Symbol: TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Calling DoScanAsync(TATASTEEL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:39: Fetching Historical data for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Finished fetching Historical data for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Checking Signal for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:40: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Symbol: TATASTEEL. CandleStartTime: 09-07-2014 10:30:00. BL: 513.728 BU: 538.072
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Finished Checking Signal for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Signal: NoSignal - Symbol: TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Calling DoScanAsync(TCS)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:40: Fetching Historical data for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Finished fetching Historical data for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Checking Signal for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:41: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Symbol: TCS. CandleStartTime: 09-07-2014 10:30:00. BL: 2439.451 BU: 2470.029
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Finished Checking Signal for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Signal: NoSignal - Symbol: TCS
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Calling DoScanAsync(ULTRACEMC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:41: Fetching Historical data for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Finished fetching Historical data for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Checking Signal for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:42: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Symbol: ULTRACEMC. CandleStartTime: 09-07-2014 10:30:00. BL: 2491.141 BU: 2516.832
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Finished Checking Signal for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Signal: NoSignal - Symbol: ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Calling DoScanAsync(WIPRO)
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:42: Fetching Historical data for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:43: Finished fetching Historical data for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:43: Checking Signal for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:43: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:43: Symbol: WIPRO. CandleStartTime: 09-07-2014 10:30:00. BL: 545.951 BU: 555.743
+Debug 
+Information
+----------------------------------------
+09-07-2014 10:31:43: Finished Checking Signal for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:43: Signal: NoSignal - Symbol: WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 10:31:43: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:53: In the timer tick now
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:53: Calling DoScanAsync(ACC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:53: Fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Finished fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Checking Signal for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:54: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Symbol: ACC. CandleStartTime: 09-07-2014 11:00:00. BL: 1406.846 BU: 1451.260
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Finished Checking Signal for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Signal: NoSignal - Symbol: ACC
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Calling DoScanAsync(AMBUJACEM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:54: Fetching Historical data for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Finished fetching Historical data for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Checking Signal for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:55: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Symbol: AMBUJACEM. CandleStartTime: 09-07-2014 11:00:00. BL: 216.990 BU: 227.190
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Finished Checking Signal for AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Signal: NoSignal - Symbol: AMBUJACEM
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Calling DoScanAsync(ASIANPAIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:55: Fetching Historical data for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Finished fetching Historical data for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Checking Signal for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:56: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Symbol: ASIANPAIN. CandleStartTime: 09-07-2014 11:00:00. BL: 588.695 BU: 605.265
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Finished Checking Signal for ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Signal: NoSignal - Symbol: ASIANPAIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Calling DoScanAsync(AXISBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:56: Fetching Historical data for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Finished fetching Historical data for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Checking Signal for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:57: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Symbol: AXISBANK. CandleStartTime: 09-07-2014 11:00:00. BL: 1865.353 BU: 1938.181
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Finished Checking Signal for AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Signal: NoSignal - Symbol: AXISBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Calling DoScanAsync(BAJAJ-AUT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:57: Fetching Historical data for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Finished fetching Historical data for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Checking Signal for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:58: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Symbol: BAJAJ-AUT. CandleStartTime: 09-07-2014 11:00:00. BL: 2174.534 BU: 2355.859
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Finished Checking Signal for BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Signal: NoSignal - Symbol: BAJAJ-AUT
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Calling DoScanAsync(BANKBAROD)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:58: Fetching Historical data for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Finished fetching Historical data for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Checking Signal for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:59: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Symbol: BANKBAROD. CandleStartTime: 09-07-2014 11:00:00. BL: 818.413 BU: 878.227
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Finished Checking Signal for BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Signal: NoSignal - Symbol: BANKBAROD
+General 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Calling DoScanAsync(BHARTIART)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:00:59: Fetching Historical data for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Finished fetching Historical data for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Checking Signal for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:00: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Symbol: BHARTIART. CandleStartTime: 09-07-2014 11:00:00. BL: 339.414 BU: 347.073
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Finished Checking Signal for BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Signal: NoSignal - Symbol: BHARTIART
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Calling DoScanAsync(BHEL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:00: Fetching Historical data for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Finished fetching Historical data for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Checking Signal for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:01: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Symbol: BHEL. CandleStartTime: 09-07-2014 11:00:00. BL: 235.521 BU: 272.139
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Finished Checking Signal for BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Signal: NoSignal - Symbol: BHEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Calling DoScanAsync(BPCL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:01: Fetching Historical data for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Finished fetching Historical data for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Checking Signal for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:02: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Symbol: BPCL. CandleStartTime: 09-07-2014 11:00:00. BL: 568.167 BU: 598.860
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Finished Checking Signal for BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Signal: NoSignal - Symbol: BPCL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Calling DoScanAsync(CAIRN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:02: Fetching Historical data for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Finished fetching Historical data for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Checking Signal for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:03: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Symbol: CAIRN. CandleStartTime: 09-07-2014 11:00:00. BL: 343.930 BU: 371.683
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Finished Checking Signal for CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Signal: NoSignal - Symbol: CAIRN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Calling DoScanAsync(CIPLA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:03: Fetching Historical data for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Finished fetching Historical data for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Checking Signal for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:04: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Symbol: CIPLA. CandleStartTime: 09-07-2014 11:00:00. BL: 435.626 BU: 466.360
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Finished Checking Signal for CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Signal: NoSignal - Symbol: CIPLA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Calling DoScanAsync(COALINDIA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:04: Fetching Historical data for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Finished fetching Historical data for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Checking Signal for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:05: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Symbol: COALINDIA. CandleStartTime: 09-07-2014 11:00:00. BL: 365.416 BU: 400.811
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Finished Checking Signal for COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Signal: NoSignal - Symbol: COALINDIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Calling DoScanAsync(DLF)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:05: Fetching Historical data for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Finished fetching Historical data for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Checking Signal for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:06: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Symbol: DLF. CandleStartTime: 09-07-2014 11:00:00. BL: 198.974 BU: 225.859
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Finished Checking Signal for DLF
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Signal: NoSignal - Symbol: DLF
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Calling DoScanAsync(DRREDDY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:06: Fetching Historical data for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Finished fetching Historical data for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Checking Signal for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:07: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Symbol: DRREDDY. CandleStartTime: 09-07-2014 11:00:00. BL: 2619.046 BU: 2790.140
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Finished Checking Signal for DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Signal: NoSignal - Symbol: DRREDDY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Calling DoScanAsync(GAIL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:07: Fetching Historical data for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Finished fetching Historical data for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Checking Signal for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:08: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Symbol: GAIL. CandleStartTime: 09-07-2014 11:00:00. BL: 454.862 BU: 466.245
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Finished Checking Signal for GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Signal: NoSignal - Symbol: GAIL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Calling DoScanAsync(GRASIM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:08: Fetching Historical data for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Finished fetching Historical data for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Checking Signal for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:09: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Symbol: GRASIM. CandleStartTime: 09-07-2014 11:00:00. BL: 3246.104 BU: 3368.250
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Finished Checking Signal for GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Signal: NoSignal - Symbol: GRASIM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Calling DoScanAsync(HCLTECH)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:09: Fetching Historical data for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Finished fetching Historical data for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Checking Signal for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:10: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Symbol: HCLTECH. CandleStartTime: 09-07-2014 11:00:00. BL: 1464.846 BU: 1492.927
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Finished Checking Signal for HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Signal: NoSignal - Symbol: HCLTECH
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Calling DoScanAsync(HDFC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:10: Fetching Historical data for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Finished fetching Historical data for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Checking Signal for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:11: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Symbol: HDFC. CandleStartTime: 09-07-2014 11:00:00. BL: 1010.565 BU: 1053.282
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Finished Checking Signal for HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Signal: NoSignal - Symbol: HDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Calling DoScanAsync(HDFCBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:11: Fetching Historical data for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Finished fetching Historical data for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Checking Signal for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:12: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Symbol: HDFCBANK. CandleStartTime: 09-07-2014 11:00:00. BL: 822.897 BU: 849.790
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Finished Checking Signal for HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Signal: NoSignal - Symbol: HDFCBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Calling DoScanAsync(HEROMOTOC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:12: Fetching Historical data for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Finished fetching Historical data for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Checking Signal for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:13: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Symbol: HEROMOTOC. CandleStartTime: 09-07-2014 11:00:00. BL: 2527.104 BU: 2644.609
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Finished Checking Signal for HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Signal: NoSignal - Symbol: HEROMOTOC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Calling DoScanAsync(HINDALCO)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:13: Fetching Historical data for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Finished fetching Historical data for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Checking Signal for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:14: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Symbol: HINDALCO. CandleStartTime: 09-07-2014 11:00:00. BL: 168.254 BU: 176.926
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Finished Checking Signal for HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Signal: NoSignal - Symbol: HINDALCO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Calling DoScanAsync(HINDUNILV)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:14: Fetching Historical data for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Finished fetching Historical data for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Checking Signal for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:15: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Symbol: HINDUNILV. CandleStartTime: 09-07-2014 11:00:00. BL: 624.200 BU: 634.414
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Finished Checking Signal for HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Signal: NoSignal - Symbol: HINDUNILV
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Calling DoScanAsync(ICICIBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:15: Fetching Historical data for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Finished fetching Historical data for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Checking Signal for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:16: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Symbol: ICICIBANK. CandleStartTime: 09-07-2014 11:00:00. BL: 1401.673 BU: 1453.661
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Finished Checking Signal for ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Signal: NoSignal - Symbol: ICICIBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Calling DoScanAsync(IDFC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:16: Fetching Historical data for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Finished fetching Historical data for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Checking Signal for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:17: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Symbol: IDFC. CandleStartTime: 09-07-2014 11:00:00. BL: 135.328 BU: 145.106
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Finished Checking Signal for IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Signal: NoSignal - Symbol: IDFC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Calling DoScanAsync(INDUSINDB)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:17: Fetching Historical data for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Finished fetching Historical data for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Checking Signal for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:18: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Symbol: INDUSINDB. CandleStartTime: 09-07-2014 11:00:00. BL: 550.027 BU: 567.700
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Finished Checking Signal for INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Signal: NoSignal - Symbol: INDUSINDB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Calling DoScanAsync(INFY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:18: Fetching Historical data for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Finished fetching Historical data for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Checking Signal for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:19: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Symbol: INFY. CandleStartTime: 09-07-2014 11:00:00. BL: 3313.974 BU: 3376.272
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Finished Checking Signal for INFY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Signal: NoSignal - Symbol: INFY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Calling DoScanAsync(ITC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:19: Fetching Historical data for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Finished fetching Historical data for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Checking Signal for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:20: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Symbol: ITC. CandleStartTime: 09-07-2014 11:00:00. BL: 332.260 BU: 340.460
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Finished Checking Signal for ITC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Signal: NoSignal - Symbol: ITC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Calling DoScanAsync(JINDALSTE)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:20: Fetching Historical data for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Finished fetching Historical data for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Checking Signal for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:21: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Symbol: JINDALSTE. CandleStartTime: 09-07-2014 11:00:00. BL: 299.708 BU: 330.832
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Finished Checking Signal for JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Signal: NoSignal - Symbol: JINDALSTE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Calling DoScanAsync(JPASSOCIA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:21: Fetching Historical data for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Finished fetching Historical data for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Checking Signal for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:22: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Symbol: JPASSOCIA. CandleStartTime: 09-07-2014 11:00:00. BL: 64.024 BU: 75.116
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Finished Checking Signal for JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Signal: NoSignal - Symbol: JPASSOCIA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Calling DoScanAsync(KOTAKBANK)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:22: Fetching Historical data for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Finished fetching Historical data for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Checking Signal for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:23: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Symbol: KOTAKBANK. CandleStartTime: 09-07-2014 11:00:00. BL: 860.454 BU: 899.273
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Finished Checking Signal for KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Signal: NoSignal - Symbol: KOTAKBANK
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Calling DoScanAsync(LT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:23: Fetching Historical data for LT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Finished fetching Historical data for LT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Checking Signal for LT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:24: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Symbol: LT. CandleStartTime: 09-07-2014 11:00:00. BL: 1640.014 BU: 1780.206
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Finished Checking Signal for LT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Signal: NoSignal - Symbol: LT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Calling DoScanAsync(LUPIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:24: Fetching Historical data for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Finished fetching Historical data for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Checking Signal for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:25: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Symbol: LUPIN. CandleStartTime: 09-07-2014 11:00:00. BL: 1033.943 BU: 1106.091
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Finished Checking Signal for LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Signal: NoSignal - Symbol: LUPIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Calling DoScanAsync(MM)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:25: Fetching Historical data for MM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Finished fetching Historical data for MM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Checking Signal for MM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:26: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Symbol: MM. CandleStartTime: 09-07-2014 11:00:00. BL: 1184.580 BU: 1237.613
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Finished Checking Signal for MM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Signal: NoSignal - Symbol: MM
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Calling DoScanAsync(MARUTI)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:26: Fetching Historical data for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Finished fetching Historical data for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Checking Signal for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:27: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Symbol: MARUTI. CandleStartTime: 09-07-2014 11:00:00. BL: 2581.844 BU: 2626.629
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Finished Checking Signal for MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Signal: NoSignal - Symbol: MARUTI
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Calling DoScanAsync(NMDC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:27: Fetching Historical data for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Finished fetching Historical data for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Checking Signal for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:28: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Symbol: NMDC. CandleStartTime: 09-07-2014 11:00:00. BL: 170.254 BU: 182.820
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Finished Checking Signal for NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Signal: NoSignal - Symbol: NMDC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Calling DoScanAsync(NTPC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:28: Fetching Historical data for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Finished fetching Historical data for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Checking Signal for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:29: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Symbol: NTPC. CandleStartTime: 09-07-2014 11:00:00. BL: 148.551 BU: 163.749
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Finished Checking Signal for NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Signal: NoSignal - Symbol: NTPC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Calling DoScanAsync(ONGC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:29: Fetching Historical data for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Finished fetching Historical data for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Checking Signal for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:30: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Symbol: ONGC. CandleStartTime: 09-07-2014 11:00:00. BL: 393.312 BU: 414.802
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Finished Checking Signal for ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Signal: NoSignal - Symbol: ONGC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Calling DoScanAsync(PNB)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:30: Fetching Historical data for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Finished fetching Historical data for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Checking Signal for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:31: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Symbol: PNB. CandleStartTime: 09-07-2014 11:00:00. BL: 914.961 BU: 986.026
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Finished Checking Signal for PNB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Signal: NoSignal - Symbol: PNB
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Calling DoScanAsync(POWERGRID)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:31: Fetching Historical data for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Finished fetching Historical data for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Checking Signal for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:32: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Symbol: POWERGRID. CandleStartTime: 09-07-2014 11:00:00. BL: 134.546 BU: 144.947
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Finished Checking Signal for POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Signal: NoSignal - Symbol: POWERGRID
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Calling DoScanAsync(RANBAXY)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:32: Fetching Historical data for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Finished fetching Historical data for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Checking Signal for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:33: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Symbol: RANBAXY. CandleStartTime: 09-07-2014 11:00:00. BL: 535.547 BU: 559.106
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Finished Checking Signal for RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Signal: NoSignal - Symbol: RANBAXY
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Calling DoScanAsync(RELIANCE)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:33: Fetching Historical data for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Finished fetching Historical data for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Checking Signal for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:34: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Symbol: RELIANCE. CandleStartTime: 09-07-2014 11:00:00. BL: 993.209 BU: 1023.824
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Finished Checking Signal for RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Signal: NoSignal - Symbol: RELIANCE
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Calling DoScanAsync(SBIN)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:34: Fetching Historical data for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Finished fetching Historical data for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Checking Signal for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:35: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Symbol: SBIN. CandleStartTime: 09-07-2014 11:00:00. BL: 2549.613 BU: 2704.980
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Finished Checking Signal for SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Signal: NoSignal - Symbol: SBIN
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Calling DoScanAsync(SSLT)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:35: Fetching Historical data for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Finished fetching Historical data for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Checking Signal for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:36: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Symbol: SSLT. CandleStartTime: 09-07-2014 11:00:00. BL: 290.524 BU: 301.310
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Finished Checking Signal for SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Signal: NoSignal - Symbol: SSLT
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Calling DoScanAsync(SUNPHARMA)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:36: Fetching Historical data for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Finished fetching Historical data for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Checking Signal for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:37: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Symbol: SUNPHARMA. CandleStartTime: 09-07-2014 11:00:00. BL: 714.341 BU: 746.486
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Finished Checking Signal for SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Signal: NoSignal - Symbol: SUNPHARMA
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Calling DoScanAsync(TATAMOTOR)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:37: Fetching Historical data for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Finished fetching Historical data for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Checking Signal for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:38: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Symbol: TATAMOTOR. CandleStartTime: 09-07-2014 11:00:00. BL: 455.255 BU: 487.085
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Finished Checking Signal for TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Signal: NoSignal - Symbol: TATAMOTOR
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Calling DoScanAsync(TATAPOWER)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:38: Fetching Historical data for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Finished fetching Historical data for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Checking Signal for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:39: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Symbol: TATAPOWER. CandleStartTime: 09-07-2014 11:00:00. BL: 101.722 BU: 114.478
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Finished Checking Signal for TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Signal: NoSignal - Symbol: TATAPOWER
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Calling DoScanAsync(TATASTEEL)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:39: Fetching Historical data for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Finished fetching Historical data for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Checking Signal for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:40: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Symbol: TATASTEEL. CandleStartTime: 09-07-2014 11:00:00. BL: 513.616 BU: 537.284
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Finished Checking Signal for TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Signal: NoSignal - Symbol: TATASTEEL
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Calling DoScanAsync(TCS)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:40: Fetching Historical data for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Finished fetching Historical data for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Checking Signal for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:41: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Symbol: TCS. CandleStartTime: 09-07-2014 11:00:00. BL: 2437.898 BU: 2469.169
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Finished Checking Signal for TCS
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Signal: NoSignal - Symbol: TCS
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Calling DoScanAsync(ULTRACEMC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:41: Fetching Historical data for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Finished fetching Historical data for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Checking Signal for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:42: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Symbol: ULTRACEMC. CandleStartTime: 09-07-2014 11:00:00. BL: 2490.038 BU: 2519.022
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Finished Checking Signal for ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Signal: NoSignal - Symbol: ULTRACEMC
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Calling DoScanAsync(WIPRO)
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:42: Fetching Historical data for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:43: Finished fetching Historical data for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:43: Checking Signal for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:43: CheckSignal Debug data
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:43: Symbol: WIPRO. CandleStartTime: 09-07-2014 11:00:00. BL: 545.262 BU: 555.911
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:01:43: Finished Checking Signal for WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:43: Signal: NoSignal - Symbol: WIPRO
+General 
+Information
+----------------------------------------
+09-07-2014 11:01:43: All Tasks returned in Trader.Scan
+Debug 
+Information
+----------------------------------------
+09-07-2014 11:14:40: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:14:43: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:15:12: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:15:16: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:17:28: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:17:28: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:17:29: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 11:17:29: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:26: In the timer tick now
+Debug 
+Information
+----------------------------------------
+09-07-2014 17:29:27: Calling DoScanAsync(ACC)
+Debug 
+Information
+----------------------------------------
+09-07-2014 17:29:27: Fetching Historical data for ACC
+General 
+Information
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:ushmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: MarketDataFarmConnectionIsBroken - Market data farm connection is broken:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsBroken - HMDS data farm connection is broken:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: HmdsDataFarmConnectionIsOK - HMDS data farm connection is OK:hkhmds, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: MarketDataFarmConnectionIsOK - Market data farm connection is OK:usfarm, ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: 1100 - Connectivity between IB and Trader Workstation has been lost., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 17:29:27: TWS Error: 1102 - Connectivity between IB and Trader Workstation has been restored - data maintained., ID: -1
+General 
+Error
+----------------------------------------
+09-07-2014 18:27:54: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+09-07-2014 18:27:59: Clicked on 'Start Button'\nYaay
+Debug 
+Information
+----------------------------------------
+09-07-2014 18:29:25: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+09-07-2014 18:29:32: Clicked on 'Start Button'/nYaay
+Debug 
+Information
+----------------------------------------
+09-07-2014 18:29:51: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+09-07-2014 18:29:56: Clicked on 'Start Button'\nYaay
+Debug 
+Information
+----------------------------------------
+09-07-2014 18:30:58: Starting MegBounce v0.1
+General 
+Information
+----------------------------------------
+09-07-2014 18:31:02: Clicked on 'Start Button'
+Yaay
+Debug 
+Information
+----------------------------------------
