@@ -9,7 +9,7 @@ namespace MeGBounce
     class Strategy
     {
         //todo:
-        /* Min no of hanging cdls to be added.........
+        /* Min no of hanging cdls to be added.
          * 3
          */
         DataAccessLayer dataAccess = DataAccessLayer.GetMySingletonDataAccessLayer();
