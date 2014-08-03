@@ -10,7 +10,7 @@ namespace MeGBounce
     {
         //todo:
         /* Min no of hanging cdls to be added.
-         * 3
+         * 3. Calculate boll for prev ones
          */
         DataAccessLayer dataAccess = DataAccessLayer.GetMySingletonDataAccessLayer();
 
