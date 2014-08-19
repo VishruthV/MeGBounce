@@ -44,8 +44,6 @@ namespace MeGBounce
             bool condition4Common = (lengthOfTheTail >= (lengthOfTheCandle * Parameters.PctMinLT));
             bool condition5Common = (lengthOfTheBody <= (lengthOfTheCandle * Parameters.PctMaxLB));
 
-
-
             #region Long Signal
             decimal lengthOfTailBelowBLow = ind.BollingerLower - latestCandle.Low;
 

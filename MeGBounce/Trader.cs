@@ -13,6 +13,7 @@ namespace MeGBounce
         private HistoricalDataManager hdMgr = new HistoricalDataManager();
         private DataAccessLayer dataAccess = DataAccessLayer.GetMySingletonDataAccessLayer(); //Initializing only to have dezerialized data, rather than doing it at use-time! (runtime)
         private OrderManager orderMgr = null;
+        public bool _PlcaeOrders = false;
 
         internal async Task Start()
         {
@@ -90,12 +91,13 @@ namespace MeGBounce
                 Log.Info(string.Format("Finished Checking Signal for {0}", sym.Contract.Symbol));
                 Log.Info(string.Format("Signal: {0} - Symbol: {1}", s.SignalType.ToString(), sym.Contract.Symbol));
 
-                //if (s.SignalType != SignalType.NoSignal)
-                //{
-                //    if (orderMgr == null) orderMgr = new OrderManager();
+                if (s.SignalType != SignalType.NoSignal)
+                {
+                    if (orderMgr == null) orderMgr = new OrderManager();
 
-                //    orderMgr.PlaceOrder(s);
-                //}
+                    if(_PlcaeOrders)
+                    orderMgr.PlaceOrder(s);
+                }
             }
             else
             {

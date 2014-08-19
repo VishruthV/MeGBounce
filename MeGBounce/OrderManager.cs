@@ -29,7 +29,7 @@ namespace MeGBounce
 
             dataAccess.WriteNewOrderEntry(orderId, signal.Contract.FullyQualifiedSymbol());
 
-            //twsc.PlaceOrder(orderId, signal.Contract, order);
+            twsc.PlaceOrder(orderId, signal.Contract, order);
             
             /*
              * GetNumberOfContractsToTrade

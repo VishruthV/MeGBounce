@@ -73,7 +73,7 @@ namespace MeGBounce
                     System.Threading.Thread.Sleep(10);
                 }
 
-                
+
             }
         }
         #endregion
@@ -168,7 +168,7 @@ namespace MeGBounce
 
         internal void PlaceOrder(int orderId, Contract contract, Order o)
         {
-            //this.ibclient.PlaceOrder(orderId, contract, o);
+            this.ibclient.PlaceOrder(orderId, contract, o);
         }
 
         #endregion

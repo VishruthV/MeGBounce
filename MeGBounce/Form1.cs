@@ -30,6 +30,9 @@ namespace MeGBounce
         {
             Trader myTrader = new Trader();
             Log.Debug("Starting Trader from BGWorker..");
+
+            if (!myTrader._PlcaeOrders)
+                MessageBox.Show("Order placing is disabled!. Click OK to continue.");
             myTrader.Start();
         }
 
