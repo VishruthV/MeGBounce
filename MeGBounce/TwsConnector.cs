@@ -19,6 +19,7 @@ namespace MeGBounce
         private object myOrderStatusLock = new object();
 
         private bool myOrderIdReceived = false;
+        private bool myTwsTimeUpdated = false;
 
         //Temp int used for OrderID ref
         int myOrderIdRef = -1;
@@ -26,6 +27,19 @@ namespace MeGBounce
         //Order ID Field
         private int _orderId;
 
+
+
+        private Dictionary<string, bool> AccountDownloadEndData = new Dictionary<string, bool>();
+        //Account, Symbol, Quantity
+        private Dictionary<Tuple<string, string>, int> OPData = new Dictionary<Tuple<string, string>, int>();
+        private Tuple<string, string> myTuple = null;
+
+        //List<OpenPositionDataStr> OPData = new List<OpenPositionDataStr>();
+
+        private const string twsError = "TWS Error";
+        #endregion
+
+        #region Public Properties
         //Order ID Property
         public int OrderId
         {
@@ -40,14 +54,9 @@ namespace MeGBounce
             }
         }
 
-        private Dictionary<string, bool> AccountDownloadEndData = new Dictionary<string, bool>();
-        //Account, Symbol, Quantity
-        private Dictionary<Tuple<string, string>, int> OPData = new Dictionary<Tuple<string, string>, int>();
-        private Tuple<string, string> myTuple = null;
-
-        //List<OpenPositionDataStr> OPData = new List<OpenPositionDataStr>();
-
-        private const string twsError = "TWS Error";
+        //Tws Time
+        public DateTime TWSDateTime = new DateTime();
+        public double TimeDiff { get; set; }
         #endregion
 
         #region Private Constructor
@@ -63,18 +72,26 @@ namespace MeGBounce
             ibclient.UpdatePortfolio += ibclient_UpdatePortfolio;
             ibclient.AccountDownloadEnd += ibclient_AccountDownloadEnd;
             ibclient.HistoricalData += ibclient_HistoricalData;
+            ibclient.CurrentTime += ibclient_CurrentTime;
 
             if (!this.ibclient.Connected)
             {
                 this.ibclient.Connect(Parameters.IPAddress, Convert.ToInt32(Parameters.Port), Convert.ToInt32(Parameters.ClientId));
                 this.ibclient.RequestIds(1);
-                while (!myOrderIdReceived)
+                this.ibclient.RequestCurrentTime();
+
+                while (!(myOrderIdReceived && myTwsTimeUpdated))
                 {
                     System.Threading.Thread.Sleep(10);
                 }
-
-
             }
+        }
+
+        void ibclient_CurrentTime(object sender, CurrentTimeEventArgs e)
+        {
+            this.TWSDateTime = e.Time.ToLocalTime();
+            this.TimeDiff = (this.TWSDateTime - DateTime.Now).TotalSeconds;
+            this.myTwsTimeUpdated = true;
         }
         #endregion
 

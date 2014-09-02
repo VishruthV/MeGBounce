@@ -13,6 +13,8 @@ namespace MeGBounce
         private HistoricalDataManager hdMgr = new HistoricalDataManager();
         private DataAccessLayer dataAccess = DataAccessLayer.GetMySingletonDataAccessLayer(); //Initializing only to have dezerialized data, rather than doing it at use-time! (runtime)
         private OrderManager orderMgr = null;
+        private TwsConnector twsc = TwsConnector.GetMySingletonTwsConnector();
+
         public bool _PlcaeOrders = false;
 
         internal async Task Start()
@@ -54,13 +56,13 @@ namespace MeGBounce
             Scan();
         }
 
-        private void WaitTill(TimeSpan time)
+        private void WaitTill(DateTime time)
         {
-            TimeSpan diff = time.Subtract(DateTime.Now.TimeOfDay);
+            TimeSpan diff = time - DateTime.Now;
             Log.Debug(string.Format("Will wait {0} seconds", diff.TotalSeconds));
 
             if (diff.TotalMilliseconds > 0)
-                System.Threading.Thread.Sleep(diff);
+                System.Threading.Thread.Sleep(diff.Add(new TimeSpan(0,0,(int)twsc.TimeDiff)));
         }
 
         private async Task Scan()
@@ -78,7 +80,7 @@ namespace MeGBounce
 
         private async Task DoScanAsync(MeGSymbol sym)
         {
-            Log.Info(string.Format("Fetching Historical data for {0}", sym.Contract.Symbol));
+            Log.Info(string.Format("Fetching Historical data for {0} - (TWSTime: {1})", sym.Contract.Symbol,twsc.TWSDateTime));
             await hdMgr.SyncHistoricalData(sym.Contract);
             Log.Info(string.Format("Finished fetching Historical data for {0}", sym.Contract.Symbol));
 

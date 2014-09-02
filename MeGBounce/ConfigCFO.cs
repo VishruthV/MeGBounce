@@ -72,7 +72,7 @@ namespace MeGBounce
 
         #region Market
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute("SMART")]
+        [DefaultSettingValueAttribute("NSE")]
         public string Exchange
         {
             get { return this["Exchange"] as string; }
@@ -96,7 +96,7 @@ namespace MeGBounce
         }
 
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute("USD")]
+        [DefaultSettingValueAttribute("INR")]
         public string Currency
         {
             get { return this["Currency"] as string; }

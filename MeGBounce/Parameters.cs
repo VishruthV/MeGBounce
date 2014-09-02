@@ -61,8 +61,24 @@ namespace MeGBounce
 
         public static string ClientId = cfo.ClientId;
 
-        //public static DateTime FetchFirstCandleAt = new DateTime();
-        public static TimeSpan FetchFirstCandleAt = TimeSpan.Parse(cfo.FetchFirstCandleAt);
+        public static DateTime FetchFirstCandleAt
+        {
+            get
+            {
+                string strDateTime = DateTime.Today.Date.ToString("dd-MM-yyyy");
+                DateTime ret = DateTime.Parse(string.Format("{0} {1}", strDateTime, cfo.FetchFirstCandleAt));
+                if (DateTime.Now.TimeOfDay > Parameters.MarketEndTime)
+                {
+                    return ret.AddDays(1.0);
+                }
+                return ret;
+            }
+            set 
+            { 
+
+            }
+        }
+        //public static TimeSpan FetchFirstCandleAt = TimeSpan.Parse(cfo.FetchFirstCandleAt);
 
         //public static DateTime MarketStartTime = DateTime.Parse(DateTime.Today.Date.ToString("dd-MM-yyyy ") + cfo.MarketStartTime);
         //public static DateTime MarketEndTime = DateTime.Parse(DateTime.Today.Date.ToString("dd-MM-yyyy ") + cfo.MarketEndTime); 
