@@ -12,7 +12,7 @@ namespace MeGBounce
     {
         #region Program
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute(@"D:\Work\MegBounce")]
+        [DefaultSettingValueAttribute(@"C:\Work\MegBounce\System")]
         public string WorkingDirectory
         {
             get { return this["WorkingDirectory"] as string; }
@@ -72,7 +72,7 @@ namespace MeGBounce
 
         #region Market
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute("NSE")]
+        [DefaultSettingValueAttribute("SMART")]
         public string Exchange
         {
             get { return this["Exchange"] as string; }
@@ -96,7 +96,7 @@ namespace MeGBounce
         }
 
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute("INR")]
+        [DefaultSettingValueAttribute("USD")]
         public string Currency
         {
             get { return this["Currency"] as string; }
@@ -104,7 +104,7 @@ namespace MeGBounce
         }
 
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute("09:30:00")]
+        [DefaultSettingValueAttribute("12:12:00")]
         public string MarketStartTime
         {
             get { return this["MarketStartTime"] as string; }
@@ -120,7 +120,7 @@ namespace MeGBounce
         }
 
         [UserScopedSettingAttribute()]
-        [DefaultSettingValueAttribute("10:00:00")]
+        [DefaultSettingValueAttribute("12:13:00")]
         public string FetchFirstCandleAt
         {
             get { return this["FetchFirstCandleAt"] as string; }

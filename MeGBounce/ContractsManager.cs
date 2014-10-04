@@ -36,12 +36,20 @@ namespace MeGBounce
 
         private static List<string> ReadSymbolsFile()
         {
-            string filename = Parameters.SymbolUniverseFile;
-            //Symbols are assumed to be newline seperated.
-            string[] sym = File.ReadAllLines(filename);
-            List<string> ret = sym.ToList();
-            ret.RemoveAt(0);
-            return ret; //Remove 0th item (first line), as it is the header line
+            try
+            {
+                string filename = Parameters.SymbolUniverseFile;
+                //Symbols are assumed to be newline seperated.
+                string[] sym = File.ReadAllLines(filename);
+                List<string> ret = sym.ToList();
+                ret.RemoveAt(0);
+                return ret; //Remove 0th item (first line), as it is the header line
+            }
+            catch (Exception)
+            {
+                
+                throw;
+            }
         }
     }
 }
